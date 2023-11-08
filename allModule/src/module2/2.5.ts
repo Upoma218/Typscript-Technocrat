@@ -54,7 +54,8 @@ const addCourseToStudent = <T>(student: T) : T=> {
 
 const student1 = addCourseToStudent({
     name: "Manha",
-    email: 'manha@gmail.com'
+    email: 'manha@gmail.com',
+    devType: 'VLJDKN'
 });
 const student2 = addCourseToStudent({
     name: "Tanha",

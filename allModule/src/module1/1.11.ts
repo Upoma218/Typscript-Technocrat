@@ -27,7 +27,7 @@ const result1 = isAuthenticated ?? 'Guest';//nullish coalescing shudhu matro 'nu
 
 const result2 = isAuthenticated ? isAuthenticated : 'Guest';//ternary operator a falsy value kaj kore.
 
-console.log({result1}, {result2})//ekhane kotar result konta seta bujhar jonno {} use kora hooiche, er maddhome object hisebe result dekha jabe.
+console.log({result1}, {result2})//ekhane kontar result konta seta bujhar jonno {} use kora hooiche, er maddhome object hisebe result dekha jabe.
 
 
 // Optional chaining

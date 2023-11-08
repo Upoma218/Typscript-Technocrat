@@ -32,7 +32,5 @@ try{
     console.log((error as ErroMessage).message)
 }
 
-
-
     // 
 }
